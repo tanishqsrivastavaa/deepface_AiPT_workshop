@@ -14,3 +14,11 @@ This project uses the DeepFace library to perform facial emotion analysis on ima
 - pip install opencv-python
 - pip install deepface
 - pip install tensorflow==2.17.1
+
+## Usage
+
+python app.py
+
+OR
+
+python3 app.py
